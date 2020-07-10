@@ -69,7 +69,7 @@ function handleClick() {
 }
 
 button.addEventListener('click', function() {
-  console.log('NIce Job!!!');
+  console.log('Nigger!!!');
 });
 
 // Timer Callback
